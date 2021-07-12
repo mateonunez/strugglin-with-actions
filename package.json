@@ -1,0 +1,19 @@
+{
+  "name": "strugglin-with-actions",
+  "version": "1.0.0",
+  "description": "Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateonunez/strugglin-with-actions.git"
+  },
+  "author": "mateonunez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateonunez/strugglin-with-actions/issues"
+  },
+  "homepage": "https://github.com/mateonunez/strugglin-with-actions#readme"
+}
